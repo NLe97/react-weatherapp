@@ -12,12 +12,10 @@ Deployed on Render: https://weatherapp-yvtb.onrender.com/
 
 ## Table of Content
 
-* Installation
-* Usage
-* Features
-* Technologies Used
-* Contributing
-* License
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [Features](#Features)
+* [Technologies Used](#Technologies Used)
 
 ## Installation
 
@@ -59,8 +57,6 @@ http://localhost:3000/
 * [CSS](https://www.w3schools.com/cssref/index.php)
 * Used Thunder Client VSCode Extension to check my API Calls
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 
 
