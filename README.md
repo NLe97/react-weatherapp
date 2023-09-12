@@ -15,7 +15,7 @@ Deployed on Render: https://weatherapp-yvtb.onrender.com/
 * [Installation](#Installation)
 * [Usage](#Usage)
 * [Features](#Features)
-* [Technologies Used](#Technologies Used)
+* [Technologies Used](#TechnologiesUsed)
 
 ## Installation
 
