@@ -8,12 +8,11 @@ This react weather app allows users to search for weather information for a spec
 
 In the project directory, you can run:
 
-### Demo/Deployed 
+## Demo/Deployed 
 
 Deployed on Render: https://weatherapp-yvtb.onrender.com/
 
 ## Table of Content
-
 *Installation
 *Usage
 *Features
