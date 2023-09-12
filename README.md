@@ -1,7 +1,5 @@
 # React Weather App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Description
 
 This react weather app allows users to search for weather information for a specific city. It displays the weather conditions, temperature, and location. Users can input a city name, click the search button, and receive weather data such as humidity and wind speed. The app also provides icons to represent different weather conditions, such as clouds, rain, and snow. It fetches weather information from the API when the user searches for it and displays it in the application's user interface.
