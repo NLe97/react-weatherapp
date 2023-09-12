@@ -12,7 +12,7 @@ In the project directory, you can run:
 
 Deployed on Render: https://weatherapp-yvtb.onrender.com/
 
-### Table of Content
+## Table of Content
 
 *Installation
 *Usage
