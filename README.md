@@ -13,29 +13,38 @@ In the project directory, you can run:
 Deployed on Render: https://weatherapp-yvtb.onrender.com/
 
 ## Table of Content
-*Installation
-*Usage
-*Features
-*Technologies Used
-*Contributing
-*License
 
-### Installation
+* Installation
+* Usage
+* Features
+* Technologies Used
+* Contributing
+* License
 
-```# Clone the repository
+## Installation
+
+```
+# Clone the repository
 git clone https://github.com/NLe97/react-weatherapp
 ```
-```# Change directory
+```
+# Change directory
 cd your-repo-name
 ```
-```# Install dependencies
+```
+# Install dependencies
 npm install
 ```
 
 ### Usage
 
-```# Run the app
+```
+# Run the app
 npm start
+```
+```
+# Check Local Host:
+http://localhost:3000/
 ```
 
 ## Feature
