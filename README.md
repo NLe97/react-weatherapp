@@ -15,7 +15,7 @@ Deployed on Render: https://weatherapp-yvtb.onrender.com/
 * [Installation](#Installation)
 * [Usage](#Usage)
 * [Features](#Features)
-* [Technologies Used](#TechnologiesUsed)
+* [Technologies Used](#Technologies)
 
 ## Installation
 
@@ -50,7 +50,7 @@ http://localhost:3000/
 * Changing of Weather Icon based on Location, Weather Temp, and Wind Speed
 
 
-## Technologies Used
+## Technologies
 
 * [React.js](https://react.dev/learn)
 * [OpenWeather API](https://openweathermap.org/api)
