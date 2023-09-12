@@ -55,7 +55,7 @@ http://localhost:3000/
 * [React.js](https://react.dev/learn)
 * [OpenWeather API](https://openweathermap.org/api)
 * [CSS](https://www.w3schools.com/cssref/index.php)
-* Used Thunder Client VSCode Extension to check my API Calls
+* [Thunderclient](https://www.thunderclient.com/)
 
 
 
