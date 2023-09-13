@@ -36,7 +36,7 @@ npm install
 
 ```
 # Run the app
-npm start
+npm run dev
 ```
 ```
 # Check Local Host:
